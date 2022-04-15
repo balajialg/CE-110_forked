@@ -1,7 +1,7 @@
 numpy
 matplotlib
 pandas
-datascience==0.10.6
-pydot==1.4.1
+datascience
+pydot
 networkx
 scipy
